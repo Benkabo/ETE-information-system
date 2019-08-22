@@ -1,0 +1,93 @@
+.container-fluid {
+    height: 80vh;
+    width: 80vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background-size: cover;
+}
+
+.container-fluid1 {
+    height: 80vh;
+    width: 38.9vw;
+    display: inline-block;
+    background-image: url(../images/coco.jpg);
+    background-size: cover;
+}
+
+.container-fluid2 {
+    height: 80vh;
+    width: 39vw;
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 3.8vh
+}
+
+h4,
+h3 {
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.btn-primary {
+    background-color: #1DA1F2;
+    color: white;
+    margin: 3vh;
+}
+
+button {
+    background-color: #1DA1F2;
+    color: white;
+    border-radius: 1vh;
+    height: 6vh;
+    width: 8vw;
+    border: none;
+    margin-left: 2vw;
+    margin-top: 2vh
+}
+
+.space {
+    margin-left: 4.5vw;
+}
+
+.button1 {
+    background-color: #525252;
+}
+
+.udlogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20vh;
+    width: 10vw;
+    margin-top: 5vh;
+    background-image: url(../images/logo_ud.png);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-family: 'Source Serif Pro', serif;
+}
+
+.getstarted {
+    margin-top: 3vh;
+}

@@ -1,0 +1,73 @@
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-family: 'Source Serif Pro', serif;
+}
+
+.container-fluid {
+    height: 80vh;
+    width: 80vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background-size: cover;
+}
+
+.container-fluid1 {
+    height: 80vh;
+    width: 38.9vw;
+    display: inline-block;
+    background-image: url(../../images/coco.jpg);
+    background-size: cover;
+}
+
+.container-fluid2 {
+    height: 80vh;
+    width: 39vw;
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+button {
+    background-color: #1DA1F2;
+    color: white;
+    border-radius: 1vh;
+    height: 6vh;
+    width: 8vw;
+    border: none;
+    margin-left: 6vw;
+    margin-top: 4vh
+}
+
+.welcometext {
+    color: #1DA1F2;
+    font-size: 3.5vh;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    margin-bottom: 6vh;
+    /* font-weight: bold; */
+}
+
+.forgotpassword {
+    color: #1DA1F2;
+    text-decoration: underline;
+    margin-left: 3vw;
+}
+
+.coverdiv {
+    margin-left: 8vw;
+    margin-top: 14vh;
+}
+
+.email {
+    width: 19vw;
+    margin-bottom: 5vh;
+}
+
+.password {
+    width: 19vw;
+    margin-bottom: 6vh;
+}
