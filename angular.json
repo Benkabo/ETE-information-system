@@ -168,13 +168,10 @@
                 }
             }
         }
-<<<<<<< HEAD
       }
     }
   },
   "defaultProject": "ETE"
-=======
     },
     "defaultProject": "ETE"
->>>>>>> 9cd92c4d0806dc5b1acb2b426d18b64a4d92a66f
 }

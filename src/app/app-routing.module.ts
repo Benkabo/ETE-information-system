@@ -6,6 +6,8 @@ import { GuestloginComponent } from './logins/guestlogin/guestlogin.component';
 import { HomeComponent } from './home/home.component';
 import { GuestsignupComponent } from './logins/guestsignup/guestsignup.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { HodReportComponent } from './reports/hod-report/hod-report.component';
+
 
 
 const routes: Routes = [
@@ -14,7 +16,8 @@ const routes: Routes = [
   {path: 'logins/stafflogin', component: StaffloginComponent },
   {path: 'logins/studentlogin', component: StudentloginComponent},
   {path: 'logins/guestsignup', component: GuestsignupComponent},
-  {path: 'dashboard', component: DashboardComponent}
+  {path: 'dashboard', component: DashboardComponent},
+  {path: 'reports', component: HodReportComponent}
  
   
   

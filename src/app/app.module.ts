@@ -24,7 +24,7 @@ import { StaffReportComponent } from './reports/staff-report/staff-report.compon
   declarations: [
     AppComponent,
     HodReportComponent,
-    StaffReportComponent
+    StaffReportComponent,
     StudentloginComponent,
     StaffloginComponent,
     GuestloginComponent,
